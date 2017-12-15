@@ -1,0 +1,83 @@
+/* Define to prevent recursive inclusion -------------------------------------*/
+#ifndef __gpsmanager_H
+#define __gpsmanager_H
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+/* Includes ------------------------------------------------------------------*/
+#include "stm32f4xx_hal.h"
+#include "main.h"
+#include "cmsis_os.h"
+#include "usart.h"
+	
+#include "TelemetryManager.h"
+#include "NMEA0183_Helper.h"
+	
+#define GM_MAX_SENTENCE_SIZE 128
+#define GM_SENTENCE_BUFFER_DATA_SIZE 100
+#define GM_SENTENCE_BUFFER_SIZE 2
+	
+#define GM_HOLD_GPGGA true
+#define GM_HOLD_GPRMC true
+#define GM_HOLD_GPGSA true
+#define GM_HOLD_GPVTG true
+#define GM_HOLD_GPGLL true
+#define GM_HOLD_GPGSV true
+	
+typedef struct 
+{
+	uint8_t SentenceData[GM_SENTENCE_BUFFER_DATA_SIZE];
+	bool	SentenceReady;	
+}tGM_SentenceBuffer;
+	
+osThreadId GM_TaskHandle;
+	
+void GM_Init(void);
+	
+void GM_CyclicTask(void const * argument);
+void GM_RxCpltItCallback(void);
+		
+tGM_SentenceBuffer GM_SentenceBuffer[GM_SENTENCE_BUFFER_SIZE];
+tGM_SentenceBuffer *GM_pCurBuffer;
+tGM_SentenceBuffer *GM_pLastBuffer;
+	
+//Last sentences
+typedef struct
+{
+	TickType_t timeStamp;
+	uint8_t length;
+	uint8_t Sentence[GM_MAX_SENTENCE_SIZE];
+}tGM_GPS_Sentence;
+	
+SemaphoreHandle_t GM_SentenceMutex;
+#if (GM_HOLD_GPRMC==true)
+	tGM_GPS_Sentence GM_Last_RMC_Sentence;
+#endif
+#if (GM_HOLD_GPGGA==true)
+	tGM_GPS_Sentence GM_Last_GGA_Sentence;
+#endif
+#if (GM_HOLD_GPGSA==true)
+	tGM_GPS_Sentence GM_Last_GSA_Sentence;
+#endif
+#if (GM_HOLD_GPVTG==true)
+	tGM_GPS_Sentence GM_Last_VTG_Sentence;
+#endif
+#if (GM_HOLD_GPGLL==true)
+	tGM_GPS_Sentence GM_Last_GLL_Sentence;
+#endif
+#if (GM_HOLD_GPGSV==true)
+	tGM_GPS_Sentence GM_Last_GSV_Sentence;
+#endif
+	
+//statistics
+uint32_t GM_Status_BufferParsed;
+uint32_t GM_Status_BufferDiscarded;
+uint32_t GM_Status_Sentences;
+uint32_t GM_Status_CRC_Ok;
+uint32_t GM_Status_CRC_Error;
+
+#ifdef __cplusplus
+}
+#endif
+#endif /* __gpsmanager_H */
