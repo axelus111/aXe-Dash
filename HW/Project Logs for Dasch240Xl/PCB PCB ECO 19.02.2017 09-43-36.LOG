@@ -1,0 +1,5 @@
+Added Component: Designator=R1(R0603H05_M)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetQ4_4 Pin=R1-2
+Added Member To Class: ClassName=U_Display Member=Component R1 .Resistor

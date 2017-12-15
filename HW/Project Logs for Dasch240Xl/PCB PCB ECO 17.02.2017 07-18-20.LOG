@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=ISP
+Change Component Designator: OldDesignator=P2 NewDesignator=USB
+Change Component Designator: OldDesignator=P3 NewDesignator=GPS
+Change Component Designator: OldDesignator=P4 NewDesignator=RF-868P_LR
+Change Component Designator: OldDesignator=P5 NewDesignator=CAN1
+Change Component Designator: OldDesignator=P6 NewDesignator=CAN2
+Change Component Designator: OldDesignator=P7 NewDesignator=RaceDAC
+Change Component Designator: OldDesignator=SD1 NewDesignator=µSD
+Change Net Name : Old Net Name=NetIC1_6 New Net Name=NetCAN1_3
+Change Net Name : Old Net Name=NetIC1_7 New Net Name=NetCAN1_2
+Change Net Name : Old Net Name=NetIC2_6 New Net Name=NetCAN2_3
+Change Net Name : Old Net Name=NetIC2_7 New Net Name=NetCAN2_2
+Change Net Name : Old Net Name=NetP7_2 New Net Name=NetQ3_3
+Change Net Name : Old Net Name=NetP7_3 New Net Name=NetRaceDAC_3
+Change Net Name : Old Net Name=NetP7_4 New Net Name=NetRaceDAC_4

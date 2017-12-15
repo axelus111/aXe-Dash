@@ -1,0 +1,217 @@
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C38(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/wurth-elektronik/744232090/signalfilter-smd-90ohm-370ma/dp/1636474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "1636474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.969"; VariantName = "[No Variations]"
+Added Component: Designator=CMC1(Murata 1206 CMC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/wurth-elektronik/744232090/signalfilter-smd-90ohm-370ma/dp/1636474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "1636474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.969"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/wurth-elektronik/824015/diodenarray-tvs/dp/1748615"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "1748615"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.866"; VariantName = "[No Variations]"
+Added Component: Designator=D18(SOT95P255X116-6N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/wurth-elektronik/824015/diodenarray-tvs/dp/1748615"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "1748615"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.866"; VariantName = "[No Variations]"
+Added Component: Designator=D19(CD 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/molex/105017-0001/micro-usb-b-buchse-smt-rwkl-5pol/dp/2293836?Ntt=105017-0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "2293836"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.738"; VariantName = "[No Variations]"
+Added Component: Designator=P2(Micro USB Molex)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/molex/105017-0001/micro-usb-b-buchse-smt-rwkl-5pol/dp/2293836?Ntt=105017-0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "2293836"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.738"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/stmicroelectronics/stmps2161str/power-switch-1ch-1000ma-sot23-5/dp/1842615"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "1842615"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,651"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/stmicroelectronics/stmps2161str/power-switch-1ch-1000ma-sot23-5/dp/1842615"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "1842615"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/wurth-elektronik/82550040/smd-varistor-power-0805-4vrms/dp/1636439?Ntt=1636439"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "1636439"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.598"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Varistor 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/wurth-elektronik/82550040/smd-varistor-power-0805-4vrms/dp/1636439?Ntt=1636439"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "1636439"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.598"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0603H05_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(R0603H05_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(R0603H05_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(R0603H05_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(R0603H05_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/molex/502774-0891/buchse-microsd-push-push-1-8mm/dp/2064063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "2064063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.98"; VariantName = "[No Variations]"
+Added Component: Designator=SD1(Micro SD Connector 502774)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/molex/502774-0891/buchse-microsd-push-push-1-8mm/dp/2064063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "2064063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.98"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=GND Pin=D18-2
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=3V3 Pin=R8-1
+Added Pin To Net: NetName=3V3 Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R10-1
+Added Pin To Net: NetName=3V3 Pin=R11-1
+Added Pin To Net: NetName=3V3 Pin=R12-1
+Added Pin To Net: NetName=3V3 Pin=SD1-4
+Added Pin To Net: NetName=GND Pin=SD1-6
+Added Pin To Net: NetName=GND Pin=SD1-9
+Added Pin To Net: NetName=GND Pin=SD1-11
+Added Pin To Net: NetName=GND Pin=SD1-11
+Added Pin To Net: NetName=GND Pin=SD1-11
+Added Pin To Net: NetName=GND Pin=SD1-11
+Added Pin To Net: NetName=5V Pin=D19-1
+Added Pin To Net: NetName=5V Pin=Q1-5
+Added Net: Name=5V
+Added Pin To Net: NetName=CAN1_RX Pin=U2-61
+Added Net: Name=CAN1_RX
+Added Pin To Net: NetName=CAN1_TX Pin=U2-62
+Added Net: Name=CAN1_TX
+Added Pin To Net: NetName=CAN2_RX Pin=U2-57
+Added Net: Name=CAN2_RX
+Added Pin To Net: NetName=CAN2_TX Pin=U2-58
+Added Net: Name=CAN2_TX
+Added Pin To Net: NetName=CAN_EN Pin=U2-59
+Added Net: Name=CAN_EN
+Added Pin To Net: NetName=NetC37_2 Pin=P2-6
+Added Pin To Net: NetName=NetC37_2 Pin=P2-6
+Added Pin To Net: NetName=NetC37_2 Pin=P2-6
+Added Pin To Net: NetName=NetC37_2 Pin=P2-6
+Added Pin To Net: NetName=NetC37_2 Pin=P2-6
+Added Pin To Net: NetName=NetC37_2 Pin=P2-6
+Added Net: Name=NetC37_2
+Added Pin To Net: NetName=NetU2_26 Pin=U2-26
+Added Net: Name=NetU2_26
+Added Pin To Net: NetName=SDIO_CK Pin=SD1-5
+Added Pin To Net: NetName=SDIO_CK Pin=U2-53
+Added Net: Name=SDIO_CK
+Added Pin To Net: NetName=SDIO_CMD Pin=R10-2
+Added Pin To Net: NetName=SDIO_CMD Pin=SD1-3
+Added Pin To Net: NetName=SDIO_CMD Pin=U2-54
+Added Net: Name=SDIO_CMD
+Added Pin To Net: NetName=SDIO_D0 Pin=R11-2
+Added Pin To Net: NetName=SDIO_D0 Pin=SD1-7
+Added Pin To Net: NetName=SDIO_D0 Pin=U2-39
+Added Net: Name=SDIO_D0
+Added Pin To Net: NetName=SDIO_D1 Pin=R12-2
+Added Pin To Net: NetName=SDIO_D1 Pin=SD1-8
+Added Pin To Net: NetName=SDIO_D1 Pin=U2-40
+Added Net: Name=SDIO_D1
+Added Pin To Net: NetName=SDIO_D2 Pin=R8-2
+Added Pin To Net: NetName=SDIO_D2 Pin=SD1-1
+Added Pin To Net: NetName=SDIO_D2 Pin=U2-51
+Added Net: Name=SDIO_D2
+Added Pin To Net: NetName=SDIO_D3 Pin=R9-2
+Added Pin To Net: NetName=SDIO_D3 Pin=SD1-2
+Added Pin To Net: NetName=SDIO_D3 Pin=U2-52
+Added Net: Name=SDIO_D3
+Added Pin To Net: NetName=SDIO_SW Pin=SD1-10
+Added Pin To Net: NetName=SDIO_SW Pin=U2-50
+Added Net: Name=SDIO_SW
+Added Pin To Net: NetName=SPI2_CD Pin=U2-35
+Added Net: Name=SPI2_CD
+Added Pin To Net: NetName=SPI2_MOSI Pin=U2-36
+Added Net: Name=SPI2_MOSI
+Added Pin To Net: NetName=SPI2_NSS Pin=U2-33
+Added Net: Name=SPI2_NSS
+Added Pin To Net: NetName=SPI2_SCK Pin=U2-34
+Added Net: Name=SPI2_SCK
+Added Pin To Net: NetName=USART2_CTS Pin=U2-14
+Added Net: Name=USART2_CTS
+Added Pin To Net: NetName=USART2_RTS Pin=U2-15
+Added Net: Name=USART2_RTS
+Added Pin To Net: NetName=USART2_RX Pin=U2-17
+Added Net: Name=USART2_RX
+Added Pin To Net: NetName=USART2_TX Pin=U2-16
+Added Net: Name=USART2_TX
+Added Pin To Net: NetName=USART6_RX Pin=U2-38
+Added Net: Name=USART6_RX
+Added Pin To Net: NetName=USART6_TX Pin=U2-37
+Added Net: Name=USART6_TX
+Added Pin To Net: NetName=USB_5VEN Pin=Q1-4
+Added Pin To Net: NetName=USB_5VEN Pin=U2-41
+Added Net: Name=USB_5VEN
+Added Pin To Net: NetName=USB_D1_N Pin=CMC1-2
+Added Net: Name=USB_D1_N
+Added Pin To Net: NetName=USB_D1_P Pin=CMC1-3
+Added Net: Name=USB_D1_P
+Added Pin To Net: NetName=USB_D2_N Pin=CMC1-1
+Added Pin To Net: NetName=USB_D2_N Pin=D18-3
+Added Pin To Net: NetName=USB_D2_N Pin=D18-4
+Added Pin To Net: NetName=USB_D2_N Pin=P2-2
+Added Net: Name=USB_D2_N
+Added Pin To Net: NetName=USB_D2_P Pin=CMC1-4
+Added Pin To Net: NetName=USB_D2_P Pin=D18-1
+Added Pin To Net: NetName=USB_D2_P Pin=D18-6
+Added Pin To Net: NetName=USB_D2_P Pin=P2-3
+Added Net: Name=USB_D2_P
+Added Pin To Net: NetName=USB_D_N Pin=U2-44
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=U2-45
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=USB_ID Pin=P2-4
+Added Pin To Net: NetName=USB_ID Pin=R7-1
+Added Pin To Net: NetName=USB_ID Pin=U2-43
+Added Net: Name=USB_ID
+Added Pin To Net: NetName=USB_VBUS Pin=D18-5
+Added Pin To Net: NetName=USB_VBUS Pin=D19-2
+Added Pin To Net: NetName=USB_VBUS Pin=P2-1
+Added Pin To Net: NetName=USB_VBUS Pin=Q1-1
+Added Pin To Net: NetName=USB_VBUS Pin=U2-42
+Added Net: Name=USB_VBUS
+Added Differential Pair: Name=USB_D1
+Added Differential Pair: Name=USB_D2
+Added Differential Pair: Name=USB_D
+Added Member To Class: ClassName=U_Microcontroller Member=Component C38 100nF
+Added Member To Class: ClassName=U_Microcontroller Member=Component CMC1 WURTH ELEKTRONIK - 744232090 - SIGNALFILTER, SMD, 90OHM, 370MA
+Added Member To Class: ClassName=U_Microcontroller Member=Component D18 WURTH ELEKTRONIK - 824015 - DIODENARRAY, TVS
+Added Member To Class: ClassName=U_Microcontroller Member=Component D19 LS CD0603
+Added Member To Class: ClassName=U_Microcontroller Member=Component P2 Molex Micro USB B
+Added Member To Class: ClassName=U_Microcontroller Member=Component Q1 Enhanced single channel power switches
+Added Member To Class: ClassName=U_Microcontroller Member=Component R7 Varistor 0805 4V WE 82550040
+Added Member To Class: ClassName=U_Microcontroller Member=Component R8 .Resistor
+Added Member To Class: ClassName=U_Microcontroller Member=Component R9 .Resistor
+Added Member To Class: ClassName=U_Microcontroller Member=Component R10 .Resistor
+Added Member To Class: ClassName=U_Microcontroller Member=Component R11 .Resistor
+Added Member To Class: ClassName=U_Microcontroller Member=Component R12 .Resistor
+Added Member To Class: ClassName=U_Microcontroller Member=Component SD1 Micro SD Connector
+Added Room: Name=U_Display
+Added Room: Name=U_Microcontroller
+Added Room: Name=WS1
+Added Room: Name=WS2

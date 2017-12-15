@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=P1 Old Footprint=B6B-PH-K-S New Footprint=DF13-6P-1.25H(20)
+Change Component Comment : Designator=P1 Old Comment=B6B-PH-K-S New Comment=DF13-6P-1.25H(20)
+Change component parameters: Designator = "P1"; Footprint = "DF13-6P-1.25H(20)"; UniqueID = "\RKINQUJO\WPTSFDYP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Circuits"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "DF13-6P-1.25H(20)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "SMT"; VariantName = "[No Variations]"

@@ -1,0 +1,29 @@
+Added Component: Designator=DISP(DOGXL240*-7 + LED)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC16_2 Pin=DISP-1
+Added Pin To Net: NetName=NetDISP_2 Pin=DISP-2
+Added Pin To Net: NetName=NetDISP_3 Pin=DISP-3
+Added Pin To Net: NetName=NetDISP_2 Pin=DISP-18
+Added Pin To Net: NetName=NetDISP_3 Pin=DISP-19
+Added Pin To Net: NetName=NetDISP_20 Pin=DISP-20
+Added Pin To Net: NetName=NetC19_2 Pin=DISP-21
+Added Pin To Net: NetName=NetC19_1 Pin=DISP-22
+Added Pin To Net: NetName=NetC20_2 Pin=DISP-23
+Added Pin To Net: NetName=NetC20_1 Pin=DISP-24
+Added Pin To Net: NetName=NetC21_2 Pin=DISP-25
+Added Pin To Net: NetName=NetC21_1 Pin=DISP-26
+Added Pin To Net: NetName=NetC22_2 Pin=DISP-27
+Added Pin To Net: NetName=NetC22_1 Pin=DISP-28
+Added Pin To Net: NetName=NetDISP_29 Pin=DISP-29
+Added Pin To Net: NetName=DOG_VDD Pin=DISP-30
+Added Pin To Net: NetName=DOG_VSS Pin=DISP-31
+Added Pin To Net: NetName=DOG_VSS Pin=DISP-32
+Added Pin To Net: NetName=DOG_VSS Pin=DISP-33
+Added Pin To Net: NetName=SPI2_CD Pin=DISP-34
+Added Pin To Net: NetName=DOG_VDD Pin=DISP-35
+Added Pin To Net: NetName=SPI2_NSS Pin=DISP-36
+Added Pin To Net: NetName=NetDISP_37 Pin=DISP-37
+Added Pin To Net: NetName=SPI2_SCK Pin=DISP-38
+Added Pin To Net: NetName=SPI2_MOSI Pin=DISP-39
+Added Pin To Net: NetName=DOG_VSS Pin=DISP-40
+Added Member To Class: ClassName=U_Display Member=Component DISP EA DOGXL240-7

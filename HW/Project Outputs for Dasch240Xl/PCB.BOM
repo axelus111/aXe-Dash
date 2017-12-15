@@ -1,0 +1,73 @@
+Bill of Material for 
+On 18.02.2017 at 11:42:34
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ .Resistor           R0603H05_M      17    R4, R5, R6, R8, R9, R10, R11                      
+                                           R12, R17, R18, R19, R20, R21
+                                           R22, R24, R25, R26
+ .Resistor           R0805H05_M       2    R2, R3                                            
+ 1µF                 C0603H08_M       1    C18                          C 1µF 6.3V 0603 MLCC X7R 
+ 10µF 16V Tantal     C1206H08_M       2    C40, C41                                          
+ 10µF                C0603H08_L       2    C44, C45                     C 10µF 6.3V 0603 MLCC X5R 
+ 100µF               C1210_TANTAL_M    2    C42, C43                     CPT 100µF 6.3V 1210 Tantal 
+ 100nF               C0603H08_M      46    C1_WS1, C1_WS2, C2_WS1       C 100nF 100V 0603 MLCC X7R 
+                                           C2_WS2, C3_WS1, C3_WS2
+                                           C4_WS1, C4_WS2, C5_WS1
+                                           C5_WS2, C6_WS1, C6_WS2
+                                           C7_WS1, C7_WS2, C8_WS1
+                                           C8_WS2, C9_WS1, C9_WS2
+                                           C10_WS1, C10_WS2, C11_WS1
+                                           C11_WS2, C12_WS1, C12_WS2
+                                           C13_WS1, C13_WS2, C14_WS1
+                                           C14_WS2, C15_WS1, C15_WS2
+                                           C17, C27, C31, C33, C34, C35
+                                           C36, C38, C39, C46, C47, C48
+                                           C49, C50, C53, C55
+ 10k                 R0603H05_M       2    R27, R28                                          
+ 10M                 R0603H05_M       1    R1                                                
+ 10nF                C0603H08_M       1    C57                                               
+ 1k                  R0603H05_M       3    R15, R16, R23                                     
+ 2.2µF               C0603H08_M       4    C25, C26, C37, C56           C 2.2µF 6.3V 0603 MLCC X7R 
+ 22µF                C1210H125_M      1    C54                                               
+ 220nF               C0805H085_L      2    C16, C52                     C 220nF 50V 0805 MLCC  Y5V 
+ 22R                 R0402H04_M       2    R13, R14                                          
+ 2N7002              SOT95P245X110-3N    1    Q3                           N-Channel Enhancement Mode Field Effect Transistor 
+ 4.7µF               C0603H08_L       8    C19, C20, C21, C22, C28, C29 C 4.7µF 6.3V 0603 MLCC X5R 
+                                           C30, C32
+ 47µF                C1210_TANTAL_M    1    C51                          CPT 47µF 16V 1210 Tantal 
+ 6pF                 C0603H08_L       2    C23, C24                     C 6pF 50V 0603 MLCC C0G/NP0 
+ 742792515           R0603H05_L       1    L2                           Ferrit Bead 0603 1000Ohm 300mA 
+ 8MHz, 33pF          CSTCE_G15        1    X2                           MURATA - CSTCE8M00G55Z-R0 - RESONATOR,SMD 8.0MHZ 
+ ABRACON - ABS25-32.768KHZ-6-1-T - QUARZ, 32.768KHZ, 6PF, SMD Abracon ABS25 Series Crystal    1    X1                           ABRACON - ABS25-32.768KHZ-6-1-T - QUARZ, 32.768KHZ, 6PF, SMD 
+ CAN Transceiver SN65HVD1040A SOIC127P600X175-8N    2    IC1, IC2                     EMC-OPTIMIZED HIGH SPEED CAN TRANSCEIVER 
+ CAT4238             SOT-23-5         1    U1                           High Efficiency 10 LED  Boost Converter 
+ DF13-4P-1.25H(20)   DF13-4P-1.25H(20)    2    CAN1, CAN2                   Hirose DF13-4P-1.25H(20) 
+ DF13-5P-1.25H(20)   DF13-5P-1.25H(20)    2    P_IN, RaceDAC                Hirose DF13-5P-1.25H(20) 
+ DF13-6P-1.25H(20)   DF13-6P-1.25H(20)    3    GPS, ISP, RF-868P_LR         Hirose DF13-6P-1.25H(20) 
+ Diode Array BAT_54C SOT95P245X110-3N    1    D25                                               
+ EA DOGXL240-7       DOGXL240*-7 + LED    1    DISP                         240x128              
+ Enhanced single channel power switches SOT-23-5         2    Q1, Q2                       Enhanced single channel power switches 
+ IND DO1608C-473M 47µH 500mA DO1608C          1    L1                           SMT Power Inductors - DO1608 Series 
+ LDO TPS799xx Ultra Low Noise, HIGH PSRR, 200mA SOT-23-5         1    U6                           200mA, Low Quiescent Current, Ultra-Low Noise, High PSRR  Low Dropout Linear Regulator 
+ LS CD0603           CD 0603          4    D17, D19, D22, D24                                
+ LS MBR0540          SOD123_H         1    D16                          Schottky Rectifier, 500mA, 40V 
+ LS PMEG6020ER       SOD-123W         3    D20, D21, D23                Schottky Rectifier, 2A, 60V 
+ MIC29151-5.0        5-Pin TO-263     2    U3, U4                       LDO  5V 1.5A, EN, ERR 
+ Micro SD Connector  Micro SD Connector 502774    1    µSD                          MOLEX - 502774-0891 - BUCHSE, MICROSD, PUSH-PUSH, 1.8MM 
+ Molex Micro USB B   Micro USB Molex    1    USB                          MOLEX - 105017-0001 - MICRO USB B, BUCHSE, SMT, RWKL, 5POL 
+ STM32F405RGT6       STM-LQFP64_N     1    U2                           ARM Cortex-M4 32-bit MCU+FPU, 210 DMIPS, 1024 kB Flash, 192 kB Internal RAM, 51 I/Os, 64-pin LQFP, -40 to 85 degC, Tray 
+ TPS7B6750           TSOP65P640X120_HS-21N    1    U5                           LDO  5V High-Voltage 450mA Enable 
+ Varistor 0805 4V WE 82550040 Varistor 0805    1    R7                           WURTH ELEKTRONIK - 82550040 - SMD VARISTOR POWER 0805 4VRMS 
+ WS2812B             WS2812B         30    D1_WS1, D1_WS2, D2_WS1       WS2812B RGB LED      
+                                           D2_WS2, D3_WS1, D3_WS2
+                                           D4_WS1, D4_WS2, D5_WS1
+                                           D5_WS2, D6_WS1, D6_WS2
+                                           D7_WS1, D7_WS2, D8_WS1
+                                           D8_WS2, D9_WS1, D9_WS2
+                                           D10_WS1, D10_WS2, D11_WS1
+                                           D11_WS2, D12_WS1, D12_WS2
+                                           D13_WS1, D13_WS2, D14_WS1
+                                           D14_WS2, D15_WS1, D15_WS2
+ WURTH ELEKTRONIK - 744232090 - SIGNALFILTER, SMD, 90OHM, 370MA Murata 1206 CMC    1    CMC1                         WURTH ELEKTRONIK - 744232090 - SIGNALFILTER, SMD, 90OHM, 370MA 
+ WURTH ELEKTRONIK - 824015 - DIODENARRAY, TVS SOT95P255X116-6N    1    D18                          WURTH ELEKTRONIK - 824015 - DIODENARRAY, TVS 

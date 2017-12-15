@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=GPS NewDesignator=P3
+Change Component Designator: OldDesignator=RDAC NewDesignator=P7
+Change Component Designator: OldDesignator=SD NewDesignator=SD1
+Change Component Designator: OldDesignator=Telemetry NewDesignator=P4
+Change Component Designator: OldDesignator=USB NewDesignator=P2
+Added Component: Designator=P_IN(DF13-5P-1.25H(20))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Circuits"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "DF13-5P-1.25H(20)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V_PROT Pin=P7-1
+Added Pin To Net: NetName=12V Pin=P_IN-1
+Added Pin To Net: NetName=12V Pin=P_IN-2
+Added Pin To Net: NetName=GND Pin=P_IN-3
+Added Pin To Net: NetName=GND Pin=P_IN-4
+Added Pin To Net: NetName=KL15 Pin=P_IN-5
+Added Member To Class: ClassName=U_Power Member=Component P_IN DF13-5P-1.25H(20)

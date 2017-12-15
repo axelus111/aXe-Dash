@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetC39_1 Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Change Component Footprint: Designator=R1 Old Footprint=R0603H05_M New Footprint=R0805H05_M
+Change Component Comment : Designator=R1 Old Comment=10M New Comment=.Resistor
+Change component parameters: Designator = "R1"; Footprint = "R0805H05_M"; UniqueID = "\GFVMUWSE\EOFAQODN"
+Change component parameters. Clean all parameters for all variants
+Added Component: Designator=R29(R0603H05_M)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetQ4_4 Pin=R1-2
+Added Pin To Net: NetName=NetC39_1 Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Member To Class: ClassName=U_Display Member=Component R29 .Resistor

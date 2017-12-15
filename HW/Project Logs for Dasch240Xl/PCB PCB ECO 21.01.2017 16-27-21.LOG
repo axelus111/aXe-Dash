@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=SWO Pin=Prog-1
+Removed Pin From Net: NetName=SCLK Pin=Prog-2
+Removed Pin From Net: NetName=3V3 Pin=Prog-3
+Removed Pin From Net: NetName=GPS_GND Pin=Prog-4
+Removed Pin From Net: NetName=Reset Pin=Prog-5
+Removed Pin From Net: NetName=SWD Pin=Prog-6
+Removed Member From Class: ClassName=U_Microcontroller Member=Prog
+Added Component: Designator=C37(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/avx/06036c225kat2a/kondensator-2-2-uf-6-3v-0603-x7r/dp/1657930"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "1657930"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.131"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPS_GND Pin=C37-1
+Added Pin To Net: NetName=USB_VBUS Pin=C37-2
+Added Pin To Net: NetName=GPS_GND Pin=P2-6
+Added Pin To Net: NetName=GPS_GND Pin=P2-6
+Added Pin To Net: NetName=GPS_GND Pin=P2-6
+Added Pin To Net: NetName=GPS_GND Pin=P2-6
+Added Pin To Net: NetName=GPS_GND Pin=P2-6
+Added Pin To Net: NetName=GPS_GND Pin=P2-6
+Added Member To Class: ClassName=U_Microcontroller Member=Component C37 2.2µF

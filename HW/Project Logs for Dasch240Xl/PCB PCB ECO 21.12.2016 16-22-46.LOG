@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=WS_GND Pin=C16_WS1-1
+Removed Pin From Net: NetName=WS_VDD Pin=C16_WS1-2
+Removed Pin From Net: NetName=WS_GND Pin=C16_WS2-1
+Removed Pin From Net: NetName=WS_VDD Pin=C16_WS2-2
+Removed Pin From Net: NetName=WS_VDD Pin=D16_WS1-1
+Removed Pin From Net: NetName=NetD1_WS2_4 Pin=D16_WS1-2
+Removed Pin From Net: NetName=WS_GND Pin=D16_WS1-3
+Removed Pin From Net: NetName=WS_VDD Pin=D16_WS2-1
+Removed Pin From Net: NetName=WS_GND Pin=D16_WS2-3
+Removed Pin From Net: NetName=NetD15_WS2_2 Pin=D16_WS2-4
+Removed Member From Class: ClassName=WS1 Member=C16_WS1
+Removed Member From Class: ClassName=WS2 Member=C16_WS2
+Removed Member From Class: ClassName=WS1 Member=D16_WS1
+Removed Member From Class: ClassName=WS2 Member=D16_WS2
+Added Pin To Net: NetName=NetD1_WS2_4 Pin=D15_WS1-2

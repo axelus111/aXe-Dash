@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_SingleLedRow.PcbDoc   06.03.2017  18:33:58
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : GTL to GBL
+ASCII RoundHoles File : PCB_SingleLedRow-RoundHoles.TXT
+ASCII SlotHoles File : PCB_SingleLedRow-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             6         PTH        5.50mm (0.22inch)
+T2      0.3mm (12mil)                                             Round             222       PTH        1046.65mm (41.21inch)
+T3      0.5mm (20mil)                                             Slot              2         PTH        15.65mm (0.62inch)
+T4      0.762mm (30mil)                                           Round             26        PTH        177.31mm (6.98inch)
+T5      0.85mm (33mil)                                            Round             2         PTH        5.00mm (0.20inch)
+T6      3.4mm (134mil)                                            Round             3         PTH        139.00mm (5.47inch)
+T7      0.9mm (35mil)                                             Round             16        NPTH       180.94mm (7.12inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              277
+
+Total Processing Time (hh:mm:ss) : 00:00:00

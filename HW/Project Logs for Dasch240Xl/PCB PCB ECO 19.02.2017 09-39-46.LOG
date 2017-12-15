@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC39_1
+Change Net Name : Old Net Name=NetQ?_4 New Net Name=NetQ4_4
+Added Member To Class: ClassName=U_Display Member=Component R3 .Resistor

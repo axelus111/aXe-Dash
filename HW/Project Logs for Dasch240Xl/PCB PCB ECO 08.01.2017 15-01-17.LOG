@@ -1,0 +1,156 @@
+Added Component: Designator=C16(C0805H085_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "1759269"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0805 [M 2012]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "V5Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-30°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+80%, -20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell"; Value = "http://de.farnell.com/kemet/c0603c105k9ractu/kondensator-x7r-0603-6-3v-1uf/dp/1865556"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "1865556"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C19(C0603H08_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "2496930"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C0603H08_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "2496930"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C21(C0603H08_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "2496930"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C22(C0603H08_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = "2496930"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=D16(SOD123_H)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(DO1608C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "47µH"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0805H05_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(R0805H05_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(SOT-23-5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V_LED Pin=C17-1
+Added Pin To Net: NetName=5V_LED Pin=C18-1
+Added Pin To Net: NetName=5V_LED Pin=L1-2
+Added Pin To Net: NetName=5V_LED Pin=U1-5
+Added Net: Name=5V_LED
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=D16-1
+Added Pin To Net: NetName=NetC16_2 Pin=DOG1-1
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=DOG1-22
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=DOG1-21
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=DOG1-24
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=DOG1-23
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=DOG1-26
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=DOG1-25
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=DOG1-28
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=DOG1-27
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD16_2 Pin=L1-1
+Added Pin To Net: NetName=NetD16_2 Pin=U1-1
+Added Net: Name=NetD16_2
+Added Pin To Net: NetName=NetDOG1_2 Pin=DOG1-2
+Added Pin To Net: NetName=NetDOG1_2 Pin=DOG1-18
+Added Net: Name=NetDOG1_2
+Added Pin To Net: NetName=NetDOG1_3 Pin=DOG1-3
+Added Pin To Net: NetName=NetDOG1_3 Pin=DOG1-19
+Added Net: Name=NetDOG1_3
+Added Pin To Net: NetName=NetDOG1_20 Pin=DOG1-20
+Added Pin To Net: NetName=NetDOG1_20 Pin=R2-2
+Added Pin To Net: NetName=NetDOG1_20 Pin=R3-2
+Added Pin To Net: NetName=NetDOG1_20 Pin=U1-3
+Added Net: Name=NetDOG1_20
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Net: Name=NetU1_4
+Added Member To Class: ClassName=U_Display Member=Component C16 220nF
+Added Member To Class: ClassName=U_Display Member=Component C17 100nF
+Added Member To Class: ClassName=U_Display Member=Component C18 1µF
+Added Member To Class: ClassName=U_Display Member=Component C19 4.7µF
+Added Member To Class: ClassName=U_Display Member=Component C20 4.7µF
+Added Member To Class: ClassName=U_Display Member=Component C21 4.7µF
+Added Member To Class: ClassName=U_Display Member=Component C22 4.7µF
+Added Member To Class: ClassName=U_Display Member=Component D16 LS MBR0540
+Added Member To Class: ClassName=U_Display Member=Component L1 IND DO1608C-473M 47µH 500mA
+Added Member To Class: ClassName=U_Display Member=Component R2 .Resistor
+Added Member To Class: ClassName=U_Display Member=Component R3 .Resistor
+Added Member To Class: ClassName=U_Display Member=Component U1 CAT4238
+Added Room: Name=U_Display
+Added Room: Name=WS1
+Added Room: Name=WS2

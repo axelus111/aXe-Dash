@@ -1,0 +1,44 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Dasch240Xl.PrjPcb|ReportField=ProjectFullPath~C:\Users\aXe\Dropbox\Elektronik\aXe_Dashboard240XL\Dasch240Xl\Dasch240Xl.PrjPcb|ReportField=Title~Bill of Materials For Project [Dasch240Xl.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~184|ReportField=ReportTime~18:42:28|ReportField=ReportDate~20.03.2017|ReportField=ReportDateTime~20.03.2017 18:42:28|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~20.03.2017|ReportField=CurrentTime~18:42:17|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\aXe\Dropbox\Elektronik\aXe_Dashboard240XL\Dasch240Xl\Main.SchDoc|ReportField=DocumentName~Main.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~26.02.2017|ReportField=Organization~|ReportField=ProjectName~Dasch240Xl.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Dasch240Xl.PrjPcb|ReportField=DataSourceFullPath~C:\Users\aXe\Dropbox\Elektronik\aXe_Dashboard240XL\Dasch240Xl\Dasch240Xl.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|DF13-5P-1.25H(20)|Hirose DF13-5P-1.25H(20)|Analog, P_IN, RaceDAC|DF13-5P-1.25H(20)|Hirose DF13-5P-1.25H(20)|3
+2|100nF|C 100nF 100V 0603 MLCC X7R|C1_WS1, C1_WS2, C2_WS1, C2_WS2, C3_WS1, C3_WS2, C4_WS1, C4_WS2, C5_WS1, C5_WS2, C6_WS1, C6_WS2, C7_WS1, C7_WS2, C8_WS1, C8_WS2, C9_WS1, C9_WS2, C10_WS1, C10_WS2, C11_WS1, C11_WS2, C12_WS1, C12_WS2, C13_WS1, C13_WS2, C14_WS1, C14_WS2, C15_WS1, C15_WS2, C16_WS1, C16_WS2, C17, C17_WS1, C17_WS2, C27, C31, C33, C34, C35, C36, C38, C46, C47, C48, C49, C50, C53, C55|C0603H08_M|C 100nF 100V 0603 MLCC X7R|49
+3|220nF|C 220nF 50V 0805 MLCC  Y5V|C16, C52|C0805H085_L|C 220nF 50V 0805 MLCC  Y5V|2
+4|1µF|C 1µF 6.3V 0603 MLCC X7R|C18|C0603H08_M|C 1µF 6.3V 0603 MLCC X7R|1
+5|4.7µF|C 4.7µF 6.3V 0603 MLCC X5R|C19, C20, C21, C22, C28, C29, C30, C32|C0603H08_L|C 4.7µF 6.3V 0603 MLCC X5R|8
+6|6pF|C 6pF 50V 0603 MLCC C0G/NP0|C23, C24|C0603H08_L|C 6pF 50V 0603 MLCC C0G/NP0|2
+7|2.2µF|C 2.2µF 6.3V 0603 MLCC X7R|C25, C26, C37, C56, C58|C0603H08_M|C 2.2µF 6.3V 0603 MLCC X7R|5
+8|TO BE DEFINED!||C39|C0805H06_M|_C 0805|1
+9|10µF 16V Tantal||C40, C41|C1206H08_M|_C 1206|2
+10|100µF|CPT 100µF 6.3V 1210 Tantal|C42, C43|C1210_TANTAL_M|CPT 100µF 6.3V 1210 Tantal|2
+11|10µF|C 10µF 6.3V 0603 MLCC X5R|C44, C45|C0603H08_L|C 10µF 6.3V 0603 MLCC X5R|2
+12|47µF|CPT 47µF 16V 1210 Tantal|C51|C1210_TANTAL_M|CPT 100µF 6.3V 1210 Tantal|1
+13|22µF||C54|C1210H125_M|_C 1210|1
+14|10nF||C57|C0603H08_M|_C 0603|1
+15|DF13-4P-1.25H(20)|Hirose DF13-4P-1.25H(20)|CAN1, CAN2|DF13-4P-1.25H(20)|Hirose DF13-4P-1.25H(20)|2
+16|WURTH ELEKTRONIK - 744232090 - SIGNALFILTER, SMD, 90OHM, 370MA|WURTH ELEKTRONIK - 744232090 - SIGNALFILTER, SMD, 90OHM, 370MA|CMC1|Murata 1206 CMC|USB CMC 1206 WE 744232090 Chip CommonMod Choke 1206|1
+17|WS2812B|WS2812B RGB LED|D1_WS1, D1_WS2, D2_WS1, D2_WS2, D3_WS1, D3_WS2, D4_WS1, D4_WS2, D5_WS1, D5_WS2, D6_WS1, D6_WS2, D7_WS1, D7_WS2, D8_WS1, D8_WS2, D9_WS1, D9_WS2, D10_WS1, D10_WS2, D11_WS1, D11_WS2, D12_WS1, D12_WS2, D13_WS1, D13_WS2, D14_WS1, D14_WS2, D15_WS1, D15_WS2, D16_WS1, D16_WS2, D17_WS1, D17_WS2|WS2812B|WS2812B|34
+18|LS MBR0540|Schottky Rectifier, 500mA, 40V|D16|SOD123_H|LS MBR0540|1
+19|LS CD0603||D17, D19, D22, D24|CD 0603|LS CD0603|4
+20|WURTH ELEKTRONIK - 824015 - DIODENARRAY, TVS|WURTH ELEKTRONIK - 824015 - DIODENARRAY, TVS|D18|SOT95P255X116-6N|USB TVS Dioden Array 824015|1
+21|LS PMEG6020ER|Schottky Rectifier, 2A, 60V|D20, D21, D23|SOD-123W|LS PMEG6020ER|3
+22|Diode Array BAT_54C||D25|SOT95P245X110-3N|Diode Array BAT_54C|1
+23|EA DOGXL240-7|240x128|DISP|DOGXL240*-7 + LED|EA DOGXL240-7|1
+24|DF13-6P-1.25H(20)|Hirose DF13-6P-1.25H(20)|GPS, ISP, RF-868P_LR|DF13-6P-1.25H(20)|Hirose DF13-6P-1.25H(20)|3
+25|CAN Transceiver SN65HVD1040A|EMC-OPTIMIZED HIGH SPEED CAN TRANSCEIVER|IC1, IC2|SOIC127P600X175-8N|CAN Transceiver SN65HVD1040A|2
+26|.Resistor||L1, R2, R3|R0805H05_M|.Resistor|3
+27|742792515|Ferrit Bead 0603 1000Ohm 300mA|L2|R0603H05_L|Ferrit Bead 0603 1000Ohm 300mA|1
+28|Enhanced single channel power switches|Enhanced single channel power switches|Q1, Q2, Q4|SOT-23-5|HSS STMPS2151 High Side Switch 500mA (2151)/1000mA (2161)|3
+29|2N7002|N-Channel Enhancement Mode Field Effect Transistor|Q3|SOT95P245X110-3N|2N7002|1
+30|.Resistor||R1, R4, R5, R6, R8, R9, R10, R11, R12, R17, R18, R19, R20, R21, R22, R24, R25, R26, R29, R30, R31, R32, R33, R34, R35|R0603H05_M|.Resistor|25
+31|Varistor 0805 4V WE 82550040|WURTH ELEKTRONIK - 82550040 - SMD VARISTOR POWER 0805 4VRMS|R7|Varistor 0805|Varistor 0805 4V WE 82550040|1
+32|22R||R13, R14|R0402H04_M|.Resistor|2
+33|1k||R15, R16, R23|R0603H05_M|.Resistor|3
+34|10k||R27, R28|R0603H05_M|.Resistor|2
+35|CAT4238|High Efficiency 10 LED  Boost Converter|U1|SOT-23-5|STU CAT4238|1
+36|STM32F405RGT6|ARM Cortex-M4 32-bit MCU+FPU, 210 DMIPS, 1024 kB Flash, 192 kB Internal RAM, 51 I/Os, 64-pin LQFP, -40 to 85 degC, Tray|U2|STM-LQFP64_N|STM32F405RGT6|1
+37|MIC29151-5.0|LDO  5V 1.5A, EN, ERR|U3, U4|5-Pin TO-263|LDO MIC29151 5V 1.5A 26VIN Enable Error Flag TO-263-5|2
+38|TPS7B6750|LDO  5V High-Voltage 450mA Enable|U5|TSOP65P640X120_HS-21N|LDO TPS7B6750 5V High-Voltage 450mA Enable|1
+39|LDO TPS799xx Ultra Low Noise, HIGH PSRR, 200mA|200mA, Low Quiescent Current, Ultra-Low Noise, High PSRR  Low Dropout Linear Regulator|U6|SOT-23-5|LDO TPS799xx Ultra Low Noise, HIGH PSRR, 200mA|1
+40|Molex Micro USB B|MOLEX - 105017-0001 - MICRO USB B, BUCHSE, SMT, RWKL, 5POL|USB|Micro USB Molex|Molex Micro USB B|1
+41|ABRACON - ABS25-32.768KHZ-6-1-T - QUARZ, 32.768KHZ, 6PF, SMD|ABRACON - ABS25-32.768KHZ-6-1-T - QUARZ, 32.768KHZ, 6PF, SMD|X1|Abracon ABS25 Series Crystal|Quarz 32.768khz|1
+42|8MHz, 33pF|MURATA - CSTCE8M00G55Z-R0 - RESONATOR,SMD 8.0MHZ|X2|CSTCE_G15|Ceramic Resonator 8Mhz|1
+43|Micro SD Connector|MOLEX - 502774-0891 - BUCHSE, MICROSD, PUSH-PUSH, 1.8MM|µSD|Micro SD Connector 502774|Molex MicroSD 502774|1

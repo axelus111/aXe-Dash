@@ -1,0 +1,15 @@
+Added Component: Designator=R13(R0402H04_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0402H04_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_D1_N Pin=R13-1
+Added Pin To Net: NetName=USB_D_N Pin=R13-2
+Added Pin To Net: NetName=USB_D1_P Pin=R14-1
+Added Pin To Net: NetName=USB_D_P Pin=R14-2
+Added Pin To Net: NetName=NetU2_5 Pin=U2-5
+Added Pin To Net: NetName=NetU2_5 Pin=X2-3
+Added Net: Name=NetU2_5
+Added Member To Class: ClassName=U_Microcontroller Member=Component R13 22R
+Added Member To Class: ClassName=U_Microcontroller Member=Component R14 22R

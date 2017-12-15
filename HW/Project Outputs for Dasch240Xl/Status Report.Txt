@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Dasch240Xl.PrjPcb]
+   Generated File[PCB_SingleLedRow-RoundHoles.TXT]
+   Generated File[PCB_SingleLedRow-SlotHoles.TXT]
+   Generated File[PCB_SingleLedRow.LDP]
+   Generated File[PCB_SingleLedRow.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 18:33:58 On 06.03.2017

@@ -1,0 +1,1719 @@
+Added Component: Designator=C1_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C7_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C7_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C7_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C8_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C8_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C8_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C9_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C9_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C9_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C10_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C10_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C10_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C11_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C11_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C11_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C12_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C12_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C12_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C13_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C13_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C13_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C14_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C14_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C14_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C15_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C15_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C15_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C16_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C16_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C16_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C17_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C17_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C17_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C18_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C18_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C18_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C19_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C19_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C19_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C20_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C20_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C20_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C21_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C21_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C21_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C22_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C22_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C22_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C23_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C23_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C23_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C24_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C24_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C24_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C25_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C25_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C25_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C26_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C26_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C26_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C27_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C27_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C27_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C28_U_WS2812B1(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C28_U_WS2812B2(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C28_U_WS2812B3(C0603H08_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Farnell Order Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Form"; Value = "0603 [M 1608]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffizient"; Value = "0ppm/°C +- 30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D9_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D9_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D9_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D10_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D10_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D10_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D11_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D11_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D11_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D12_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D12_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D12_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D13_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D13_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D13_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D14_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D14_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D14_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D15_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D15_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D15_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D16_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D16_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D16_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D17_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D17_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D17_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D18_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D18_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D18_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D19_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D19_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D19_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D20_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D20_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D20_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D21_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D21_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D21_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D22_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D22_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D22_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D23_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D23_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D23_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D24_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D24_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D24_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D25_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D25_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D25_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D26_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D26_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D26_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D27_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D27_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D27_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D28_U_WS2812B1(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D28_U_WS2812B2(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D28_U_WS2812B3(WS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DOG1(DOGXL240*-7 + LED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(R0603H05_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "10M"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DOG_VDD Pin=DOG1-30
+Added Pin To Net: NetName=DOG_VDD Pin=DOG1-35
+Added Net: Name=DOG_VDD
+Added Pin To Net: NetName=DOG_VSS Pin=DOG1-31
+Added Pin To Net: NetName=DOG_VSS Pin=DOG1-32
+Added Pin To Net: NetName=DOG_VSS Pin=DOG1-33
+Added Pin To Net: NetName=DOG_VSS Pin=DOG1-40
+Added Pin To Net: NetName=DOG_VSS Pin=R1-2
+Added Net: Name=DOG_VSS
+Added Pin To Net: NetName=NetD1_U_WS2812B1_2 Pin=D1_U_WS2812B1-2
+Added Pin To Net: NetName=NetD1_U_WS2812B1_2 Pin=D5_U_WS2812B1-4
+Added Net: Name=NetD1_U_WS2812B1_2
+Added Pin To Net: NetName=NetD1_U_WS2812B1_4 Pin=D1_U_WS2812B1-4
+Added Pin To Net: NetName=NetD1_U_WS2812B1_4 Pin=D16_U_WS2812B2-2
+Added Net: Name=NetD1_U_WS2812B1_4
+Added Pin To Net: NetName=NetD1_U_WS2812B2_2 Pin=D1_U_WS2812B2-2
+Added Pin To Net: NetName=NetD1_U_WS2812B2_2 Pin=D5_U_WS2812B2-4
+Added Net: Name=NetD1_U_WS2812B2_2
+Added Pin To Net: NetName=NetD1_U_WS2812B2_4 Pin=D1_U_WS2812B2-4
+Added Pin To Net: NetName=NetD1_U_WS2812B2_4 Pin=D16_U_WS2812B3-2
+Added Net: Name=NetD1_U_WS2812B2_4
+Added Pin To Net: NetName=NetD1_U_WS2812B3_2 Pin=D1_U_WS2812B3-2
+Added Pin To Net: NetName=NetD1_U_WS2812B3_2 Pin=D5_U_WS2812B3-4
+Added Net: Name=NetD1_U_WS2812B3_2
+Added Pin To Net: NetName=NetD1_U_WS2812B3_4 Pin=D1_U_WS2812B3-4
+Added Net: Name=NetD1_U_WS2812B3_4
+Added Pin To Net: NetName=NetD2_U_WS2812B1_2 Pin=D2_U_WS2812B1-2
+Added Pin To Net: NetName=NetD2_U_WS2812B1_2 Pin=D6_U_WS2812B1-4
+Added Net: Name=NetD2_U_WS2812B1_2
+Added Pin To Net: NetName=NetD2_U_WS2812B1_4 Pin=D2_U_WS2812B1-4
+Added Pin To Net: NetName=NetD2_U_WS2812B1_4 Pin=D26_U_WS2812B1-2
+Added Net: Name=NetD2_U_WS2812B1_4
+Added Pin To Net: NetName=NetD2_U_WS2812B2_2 Pin=D2_U_WS2812B2-2
+Added Pin To Net: NetName=NetD2_U_WS2812B2_2 Pin=D6_U_WS2812B2-4
+Added Net: Name=NetD2_U_WS2812B2_2
+Added Pin To Net: NetName=NetD2_U_WS2812B2_4 Pin=D2_U_WS2812B2-4
+Added Pin To Net: NetName=NetD2_U_WS2812B2_4 Pin=D26_U_WS2812B2-2
+Added Net: Name=NetD2_U_WS2812B2_4
+Added Pin To Net: NetName=NetD2_U_WS2812B3_2 Pin=D2_U_WS2812B3-2
+Added Pin To Net: NetName=NetD2_U_WS2812B3_2 Pin=D6_U_WS2812B3-4
+Added Net: Name=NetD2_U_WS2812B3_2
+Added Pin To Net: NetName=NetD2_U_WS2812B3_4 Pin=D2_U_WS2812B3-4
+Added Pin To Net: NetName=NetD2_U_WS2812B3_4 Pin=D26_U_WS2812B3-2
+Added Net: Name=NetD2_U_WS2812B3_4
+Added Pin To Net: NetName=NetD3_U_WS2812B1_2 Pin=D3_U_WS2812B1-2
+Added Pin To Net: NetName=NetD3_U_WS2812B1_2 Pin=D7_U_WS2812B1-4
+Added Net: Name=NetD3_U_WS2812B1_2
+Added Pin To Net: NetName=NetD3_U_WS2812B1_4 Pin=D3_U_WS2812B1-4
+Added Pin To Net: NetName=NetD3_U_WS2812B1_4 Pin=D27_U_WS2812B1-2
+Added Net: Name=NetD3_U_WS2812B1_4
+Added Pin To Net: NetName=NetD3_U_WS2812B2_2 Pin=D3_U_WS2812B2-2
+Added Pin To Net: NetName=NetD3_U_WS2812B2_2 Pin=D7_U_WS2812B2-4
+Added Net: Name=NetD3_U_WS2812B2_2
+Added Pin To Net: NetName=NetD3_U_WS2812B2_4 Pin=D3_U_WS2812B2-4
+Added Pin To Net: NetName=NetD3_U_WS2812B2_4 Pin=D27_U_WS2812B2-2
+Added Net: Name=NetD3_U_WS2812B2_4
+Added Pin To Net: NetName=NetD3_U_WS2812B3_2 Pin=D3_U_WS2812B3-2
+Added Pin To Net: NetName=NetD3_U_WS2812B3_2 Pin=D7_U_WS2812B3-4
+Added Net: Name=NetD3_U_WS2812B3_2
+Added Pin To Net: NetName=NetD3_U_WS2812B3_4 Pin=D3_U_WS2812B3-4
+Added Pin To Net: NetName=NetD3_U_WS2812B3_4 Pin=D27_U_WS2812B3-2
+Added Net: Name=NetD3_U_WS2812B3_4
+Added Pin To Net: NetName=NetD4_U_WS2812B1_2 Pin=D4_U_WS2812B1-2
+Added Pin To Net: NetName=NetD4_U_WS2812B1_2 Pin=D8_U_WS2812B1-4
+Added Net: Name=NetD4_U_WS2812B1_2
+Added Pin To Net: NetName=NetD4_U_WS2812B1_4 Pin=D4_U_WS2812B1-4
+Added Pin To Net: NetName=NetD4_U_WS2812B1_4 Pin=D28_U_WS2812B1-2
+Added Net: Name=NetD4_U_WS2812B1_4
+Added Pin To Net: NetName=NetD4_U_WS2812B2_2 Pin=D4_U_WS2812B2-2
+Added Pin To Net: NetName=NetD4_U_WS2812B2_2 Pin=D8_U_WS2812B2-4
+Added Net: Name=NetD4_U_WS2812B2_2
+Added Pin To Net: NetName=NetD4_U_WS2812B2_4 Pin=D4_U_WS2812B2-4
+Added Pin To Net: NetName=NetD4_U_WS2812B2_4 Pin=D28_U_WS2812B2-2
+Added Net: Name=NetD4_U_WS2812B2_4
+Added Pin To Net: NetName=NetD4_U_WS2812B3_2 Pin=D4_U_WS2812B3-2
+Added Pin To Net: NetName=NetD4_U_WS2812B3_2 Pin=D8_U_WS2812B3-4
+Added Net: Name=NetD4_U_WS2812B3_2
+Added Pin To Net: NetName=NetD4_U_WS2812B3_4 Pin=D4_U_WS2812B3-4
+Added Pin To Net: NetName=NetD4_U_WS2812B3_4 Pin=D28_U_WS2812B3-2
+Added Net: Name=NetD4_U_WS2812B3_4
+Added Pin To Net: NetName=NetD5_U_WS2812B1_2 Pin=D5_U_WS2812B1-2
+Added Pin To Net: NetName=NetD5_U_WS2812B1_2 Pin=D9_U_WS2812B1-4
+Added Net: Name=NetD5_U_WS2812B1_2
+Added Pin To Net: NetName=NetD5_U_WS2812B2_2 Pin=D5_U_WS2812B2-2
+Added Pin To Net: NetName=NetD5_U_WS2812B2_2 Pin=D9_U_WS2812B2-4
+Added Net: Name=NetD5_U_WS2812B2_2
+Added Pin To Net: NetName=NetD5_U_WS2812B3_2 Pin=D5_U_WS2812B3-2
+Added Pin To Net: NetName=NetD5_U_WS2812B3_2 Pin=D9_U_WS2812B3-4
+Added Net: Name=NetD5_U_WS2812B3_2
+Added Pin To Net: NetName=NetD6_U_WS2812B1_2 Pin=D6_U_WS2812B1-2
+Added Pin To Net: NetName=NetD6_U_WS2812B1_2 Pin=D10_U_WS2812B1-4
+Added Net: Name=NetD6_U_WS2812B1_2
+Added Pin To Net: NetName=NetD6_U_WS2812B2_2 Pin=D6_U_WS2812B2-2
+Added Pin To Net: NetName=NetD6_U_WS2812B2_2 Pin=D10_U_WS2812B2-4
+Added Net: Name=NetD6_U_WS2812B2_2
+Added Pin To Net: NetName=NetD6_U_WS2812B3_2 Pin=D6_U_WS2812B3-2
+Added Pin To Net: NetName=NetD6_U_WS2812B3_2 Pin=D10_U_WS2812B3-4
+Added Net: Name=NetD6_U_WS2812B3_2
+Added Pin To Net: NetName=NetD7_U_WS2812B1_2 Pin=D7_U_WS2812B1-2
+Added Pin To Net: NetName=NetD7_U_WS2812B1_2 Pin=D11_U_WS2812B1-4
+Added Net: Name=NetD7_U_WS2812B1_2
+Added Pin To Net: NetName=NetD7_U_WS2812B2_2 Pin=D7_U_WS2812B2-2
+Added Pin To Net: NetName=NetD7_U_WS2812B2_2 Pin=D11_U_WS2812B2-4
+Added Net: Name=NetD7_U_WS2812B2_2
+Added Pin To Net: NetName=NetD7_U_WS2812B3_2 Pin=D7_U_WS2812B3-2
+Added Pin To Net: NetName=NetD7_U_WS2812B3_2 Pin=D11_U_WS2812B3-4
+Added Net: Name=NetD7_U_WS2812B3_2
+Added Pin To Net: NetName=NetD8_U_WS2812B1_2 Pin=D8_U_WS2812B1-2
+Added Pin To Net: NetName=NetD8_U_WS2812B1_2 Pin=D12_U_WS2812B1-4
+Added Net: Name=NetD8_U_WS2812B1_2
+Added Pin To Net: NetName=NetD8_U_WS2812B2_2 Pin=D8_U_WS2812B2-2
+Added Pin To Net: NetName=NetD8_U_WS2812B2_2 Pin=D12_U_WS2812B2-4
+Added Net: Name=NetD8_U_WS2812B2_2
+Added Pin To Net: NetName=NetD8_U_WS2812B3_2 Pin=D8_U_WS2812B3-2
+Added Pin To Net: NetName=NetD8_U_WS2812B3_2 Pin=D12_U_WS2812B3-4
+Added Net: Name=NetD8_U_WS2812B3_2
+Added Pin To Net: NetName=NetD9_U_WS2812B1_2 Pin=D9_U_WS2812B1-2
+Added Pin To Net: NetName=NetD9_U_WS2812B1_2 Pin=D13_U_WS2812B1-4
+Added Net: Name=NetD9_U_WS2812B1_2
+Added Pin To Net: NetName=NetD9_U_WS2812B2_2 Pin=D9_U_WS2812B2-2
+Added Pin To Net: NetName=NetD9_U_WS2812B2_2 Pin=D13_U_WS2812B2-4
+Added Net: Name=NetD9_U_WS2812B2_2
+Added Pin To Net: NetName=NetD9_U_WS2812B3_2 Pin=D9_U_WS2812B3-2
+Added Pin To Net: NetName=NetD9_U_WS2812B3_2 Pin=D13_U_WS2812B3-4
+Added Net: Name=NetD9_U_WS2812B3_2
+Added Pin To Net: NetName=NetD10_U_WS2812B1_2 Pin=D10_U_WS2812B1-2
+Added Pin To Net: NetName=NetD10_U_WS2812B1_2 Pin=D14_U_WS2812B1-4
+Added Net: Name=NetD10_U_WS2812B1_2
+Added Pin To Net: NetName=NetD10_U_WS2812B2_2 Pin=D10_U_WS2812B2-2
+Added Pin To Net: NetName=NetD10_U_WS2812B2_2 Pin=D14_U_WS2812B2-4
+Added Net: Name=NetD10_U_WS2812B2_2
+Added Pin To Net: NetName=NetD10_U_WS2812B3_2 Pin=D10_U_WS2812B3-2
+Added Pin To Net: NetName=NetD10_U_WS2812B3_2 Pin=D14_U_WS2812B3-4
+Added Net: Name=NetD10_U_WS2812B3_2
+Added Pin To Net: NetName=NetD11_U_WS2812B1_2 Pin=D11_U_WS2812B1-2
+Added Pin To Net: NetName=NetD11_U_WS2812B1_2 Pin=D15_U_WS2812B1-4
+Added Net: Name=NetD11_U_WS2812B1_2
+Added Pin To Net: NetName=NetD11_U_WS2812B2_2 Pin=D11_U_WS2812B2-2
+Added Pin To Net: NetName=NetD11_U_WS2812B2_2 Pin=D15_U_WS2812B2-4
+Added Net: Name=NetD11_U_WS2812B2_2
+Added Pin To Net: NetName=NetD11_U_WS2812B3_2 Pin=D11_U_WS2812B3-2
+Added Pin To Net: NetName=NetD11_U_WS2812B3_2 Pin=D15_U_WS2812B3-4
+Added Net: Name=NetD11_U_WS2812B3_2
+Added Pin To Net: NetName=NetD12_U_WS2812B1_2 Pin=D12_U_WS2812B1-2
+Added Pin To Net: NetName=NetD12_U_WS2812B1_2 Pin=D16_U_WS2812B1-4
+Added Net: Name=NetD12_U_WS2812B1_2
+Added Pin To Net: NetName=NetD12_U_WS2812B2_2 Pin=D12_U_WS2812B2-2
+Added Pin To Net: NetName=NetD12_U_WS2812B2_2 Pin=D16_U_WS2812B2-4
+Added Net: Name=NetD12_U_WS2812B2_2
+Added Pin To Net: NetName=NetD12_U_WS2812B3_2 Pin=D12_U_WS2812B3-2
+Added Pin To Net: NetName=NetD12_U_WS2812B3_2 Pin=D16_U_WS2812B3-4
+Added Net: Name=NetD12_U_WS2812B3_2
+Added Pin To Net: NetName=NetD13_U_WS2812B1_2 Pin=D13_U_WS2812B1-2
+Added Pin To Net: NetName=NetD13_U_WS2812B1_2 Pin=D17_U_WS2812B1-4
+Added Net: Name=NetD13_U_WS2812B1_2
+Added Pin To Net: NetName=NetD13_U_WS2812B2_2 Pin=D13_U_WS2812B2-2
+Added Pin To Net: NetName=NetD13_U_WS2812B2_2 Pin=D17_U_WS2812B2-4
+Added Net: Name=NetD13_U_WS2812B2_2
+Added Pin To Net: NetName=NetD13_U_WS2812B3_2 Pin=D13_U_WS2812B3-2
+Added Pin To Net: NetName=NetD13_U_WS2812B3_2 Pin=D17_U_WS2812B3-4
+Added Net: Name=NetD13_U_WS2812B3_2
+Added Pin To Net: NetName=NetD14_U_WS2812B1_2 Pin=D14_U_WS2812B1-2
+Added Pin To Net: NetName=NetD14_U_WS2812B1_2 Pin=D18_U_WS2812B1-4
+Added Net: Name=NetD14_U_WS2812B1_2
+Added Pin To Net: NetName=NetD14_U_WS2812B2_2 Pin=D14_U_WS2812B2-2
+Added Pin To Net: NetName=NetD14_U_WS2812B2_2 Pin=D18_U_WS2812B2-4
+Added Net: Name=NetD14_U_WS2812B2_2
+Added Pin To Net: NetName=NetD14_U_WS2812B3_2 Pin=D14_U_WS2812B3-2
+Added Pin To Net: NetName=NetD14_U_WS2812B3_2 Pin=D18_U_WS2812B3-4
+Added Net: Name=NetD14_U_WS2812B3_2
+Added Pin To Net: NetName=NetD15_U_WS2812B1_2 Pin=D15_U_WS2812B1-2
+Added Pin To Net: NetName=NetD15_U_WS2812B1_2 Pin=D19_U_WS2812B1-4
+Added Net: Name=NetD15_U_WS2812B1_2
+Added Pin To Net: NetName=NetD15_U_WS2812B2_2 Pin=D15_U_WS2812B2-2
+Added Pin To Net: NetName=NetD15_U_WS2812B2_2 Pin=D19_U_WS2812B2-4
+Added Net: Name=NetD15_U_WS2812B2_2
+Added Pin To Net: NetName=NetD15_U_WS2812B3_2 Pin=D15_U_WS2812B3-2
+Added Pin To Net: NetName=NetD15_U_WS2812B3_2 Pin=D19_U_WS2812B3-4
+Added Net: Name=NetD15_U_WS2812B3_2
+Added Pin To Net: NetName=NetD16_U_WS2812B1_2 Pin=D16_U_WS2812B1-2
+Added Net: Name=NetD16_U_WS2812B1_2
+Added Pin To Net: NetName=NetD17_U_WS2812B1_2 Pin=D17_U_WS2812B1-2
+Added Pin To Net: NetName=NetD17_U_WS2812B1_2 Pin=D20_U_WS2812B1-4
+Added Net: Name=NetD17_U_WS2812B1_2
+Added Pin To Net: NetName=NetD17_U_WS2812B2_2 Pin=D17_U_WS2812B2-2
+Added Pin To Net: NetName=NetD17_U_WS2812B2_2 Pin=D20_U_WS2812B2-4
+Added Net: Name=NetD17_U_WS2812B2_2
+Added Pin To Net: NetName=NetD17_U_WS2812B3_2 Pin=D17_U_WS2812B3-2
+Added Pin To Net: NetName=NetD17_U_WS2812B3_2 Pin=D20_U_WS2812B3-4
+Added Net: Name=NetD17_U_WS2812B3_2
+Added Pin To Net: NetName=NetD18_U_WS2812B1_2 Pin=D18_U_WS2812B1-2
+Added Pin To Net: NetName=NetD18_U_WS2812B1_2 Pin=D21_U_WS2812B1-4
+Added Net: Name=NetD18_U_WS2812B1_2
+Added Pin To Net: NetName=NetD18_U_WS2812B2_2 Pin=D18_U_WS2812B2-2
+Added Pin To Net: NetName=NetD18_U_WS2812B2_2 Pin=D21_U_WS2812B2-4
+Added Net: Name=NetD18_U_WS2812B2_2
+Added Pin To Net: NetName=NetD18_U_WS2812B3_2 Pin=D18_U_WS2812B3-2
+Added Pin To Net: NetName=NetD18_U_WS2812B3_2 Pin=D21_U_WS2812B3-4
+Added Net: Name=NetD18_U_WS2812B3_2
+Added Pin To Net: NetName=NetD19_U_WS2812B1_2 Pin=D19_U_WS2812B1-2
+Added Pin To Net: NetName=NetD19_U_WS2812B1_2 Pin=D22_U_WS2812B1-4
+Added Net: Name=NetD19_U_WS2812B1_2
+Added Pin To Net: NetName=NetD19_U_WS2812B2_2 Pin=D19_U_WS2812B2-2
+Added Pin To Net: NetName=NetD19_U_WS2812B2_2 Pin=D22_U_WS2812B2-4
+Added Net: Name=NetD19_U_WS2812B2_2
+Added Pin To Net: NetName=NetD19_U_WS2812B3_2 Pin=D19_U_WS2812B3-2
+Added Pin To Net: NetName=NetD19_U_WS2812B3_2 Pin=D22_U_WS2812B3-4
+Added Net: Name=NetD19_U_WS2812B3_2
+Added Pin To Net: NetName=NetD20_U_WS2812B1_2 Pin=D20_U_WS2812B1-2
+Added Pin To Net: NetName=NetD20_U_WS2812B1_2 Pin=D23_U_WS2812B1-4
+Added Net: Name=NetD20_U_WS2812B1_2
+Added Pin To Net: NetName=NetD20_U_WS2812B2_2 Pin=D20_U_WS2812B2-2
+Added Pin To Net: NetName=NetD20_U_WS2812B2_2 Pin=D23_U_WS2812B2-4
+Added Net: Name=NetD20_U_WS2812B2_2
+Added Pin To Net: NetName=NetD20_U_WS2812B3_2 Pin=D20_U_WS2812B3-2
+Added Pin To Net: NetName=NetD20_U_WS2812B3_2 Pin=D23_U_WS2812B3-4
+Added Net: Name=NetD20_U_WS2812B3_2
+Added Pin To Net: NetName=NetD21_U_WS2812B1_2 Pin=D21_U_WS2812B1-2
+Added Pin To Net: NetName=NetD21_U_WS2812B1_2 Pin=D24_U_WS2812B1-4
+Added Net: Name=NetD21_U_WS2812B1_2
+Added Pin To Net: NetName=NetD21_U_WS2812B2_2 Pin=D21_U_WS2812B2-2
+Added Pin To Net: NetName=NetD21_U_WS2812B2_2 Pin=D24_U_WS2812B2-4
+Added Net: Name=NetD21_U_WS2812B2_2
+Added Pin To Net: NetName=NetD21_U_WS2812B3_2 Pin=D21_U_WS2812B3-2
+Added Pin To Net: NetName=NetD21_U_WS2812B3_2 Pin=D24_U_WS2812B3-4
+Added Net: Name=NetD21_U_WS2812B3_2
+Added Pin To Net: NetName=NetD22_U_WS2812B1_2 Pin=D22_U_WS2812B1-2
+Added Pin To Net: NetName=NetD22_U_WS2812B1_2 Pin=D25_U_WS2812B1-4
+Added Net: Name=NetD22_U_WS2812B1_2
+Added Pin To Net: NetName=NetD22_U_WS2812B2_2 Pin=D22_U_WS2812B2-2
+Added Pin To Net: NetName=NetD22_U_WS2812B2_2 Pin=D25_U_WS2812B2-4
+Added Net: Name=NetD22_U_WS2812B2_2
+Added Pin To Net: NetName=NetD22_U_WS2812B3_2 Pin=D22_U_WS2812B3-2
+Added Pin To Net: NetName=NetD22_U_WS2812B3_2 Pin=D25_U_WS2812B3-4
+Added Net: Name=NetD22_U_WS2812B3_2
+Added Pin To Net: NetName=NetD23_U_WS2812B1_2 Pin=D23_U_WS2812B1-2
+Added Pin To Net: NetName=NetD23_U_WS2812B1_2 Pin=D26_U_WS2812B1-4
+Added Net: Name=NetD23_U_WS2812B1_2
+Added Pin To Net: NetName=NetD23_U_WS2812B2_2 Pin=D23_U_WS2812B2-2
+Added Pin To Net: NetName=NetD23_U_WS2812B2_2 Pin=D26_U_WS2812B2-4
+Added Net: Name=NetD23_U_WS2812B2_2
+Added Pin To Net: NetName=NetD23_U_WS2812B3_2 Pin=D23_U_WS2812B3-2
+Added Pin To Net: NetName=NetD23_U_WS2812B3_2 Pin=D26_U_WS2812B3-4
+Added Net: Name=NetD23_U_WS2812B3_2
+Added Pin To Net: NetName=NetD24_U_WS2812B1_2 Pin=D24_U_WS2812B1-2
+Added Pin To Net: NetName=NetD24_U_WS2812B1_2 Pin=D27_U_WS2812B1-4
+Added Net: Name=NetD24_U_WS2812B1_2
+Added Pin To Net: NetName=NetD24_U_WS2812B2_2 Pin=D24_U_WS2812B2-2
+Added Pin To Net: NetName=NetD24_U_WS2812B2_2 Pin=D27_U_WS2812B2-4
+Added Net: Name=NetD24_U_WS2812B2_2
+Added Pin To Net: NetName=NetD24_U_WS2812B3_2 Pin=D24_U_WS2812B3-2
+Added Pin To Net: NetName=NetD24_U_WS2812B3_2 Pin=D27_U_WS2812B3-4
+Added Net: Name=NetD24_U_WS2812B3_2
+Added Pin To Net: NetName=NetD25_U_WS2812B1_2 Pin=D25_U_WS2812B1-2
+Added Pin To Net: NetName=NetD25_U_WS2812B1_2 Pin=D28_U_WS2812B1-4
+Added Net: Name=NetD25_U_WS2812B1_2
+Added Pin To Net: NetName=NetD25_U_WS2812B2_2 Pin=D25_U_WS2812B2-2
+Added Pin To Net: NetName=NetD25_U_WS2812B2_2 Pin=D28_U_WS2812B2-4
+Added Net: Name=NetD25_U_WS2812B2_2
+Added Pin To Net: NetName=NetD25_U_WS2812B3_2 Pin=D25_U_WS2812B3-2
+Added Pin To Net: NetName=NetD25_U_WS2812B3_2 Pin=D28_U_WS2812B3-4
+Added Net: Name=NetD25_U_WS2812B3_2
+Added Pin To Net: NetName=NetDOG1_29 Pin=DOG1-29
+Added Pin To Net: NetName=NetDOG1_29 Pin=R1-1
+Added Net: Name=NetDOG1_29
+Added Pin To Net: NetName=NetDOG1_34 Pin=DOG1-34
+Added Net: Name=NetDOG1_34
+Added Pin To Net: NetName=NetDOG1_36 Pin=DOG1-36
+Added Net: Name=NetDOG1_36
+Added Pin To Net: NetName=NetDOG1_37 Pin=DOG1-37
+Added Net: Name=NetDOG1_37
+Added Pin To Net: NetName=NetDOG1_38 Pin=DOG1-38
+Added Net: Name=NetDOG1_38
+Added Pin To Net: NetName=NetDOG1_39 Pin=DOG1-39
+Added Net: Name=NetDOG1_39
+Added Pin To Net: NetName=WS_GND Pin=C1_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C1_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C1_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C2_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C2_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C2_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C3_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C3_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C3_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C4_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C4_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C4_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C5_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C5_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C5_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C6_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C6_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C6_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C7_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C7_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C7_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C8_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C8_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C8_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C9_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C9_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C9_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C10_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C10_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C10_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C11_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C11_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C11_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C12_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C12_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C12_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C13_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C13_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C13_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C14_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C14_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C14_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C15_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C15_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C15_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C16_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C16_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C16_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C17_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C17_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C17_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C18_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C18_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C18_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C19_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C19_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C19_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C20_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C20_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C20_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C21_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C21_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C21_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C22_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C22_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C22_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C23_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C23_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C23_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C24_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C24_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C24_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C25_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C25_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C25_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C26_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C26_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C26_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C27_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C27_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C27_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=C28_U_WS2812B1-1
+Added Pin To Net: NetName=WS_GND Pin=C28_U_WS2812B2-1
+Added Pin To Net: NetName=WS_GND Pin=C28_U_WS2812B3-1
+Added Pin To Net: NetName=WS_GND Pin=D1_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D1_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D1_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D2_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D2_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D2_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D3_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D3_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D3_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D4_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D4_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D4_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D5_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D5_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D5_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D6_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D6_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D6_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D7_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D7_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D7_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D8_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D8_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D8_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D9_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D9_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D9_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D10_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D10_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D10_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D11_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D11_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D11_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D12_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D12_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D12_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D13_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D13_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D13_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D14_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D14_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D14_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D15_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D15_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D15_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D16_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D16_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D16_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D17_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D17_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D17_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D18_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D18_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D18_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D19_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D19_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D19_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D20_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D20_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D20_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D21_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D21_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D21_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D22_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D22_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D22_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D23_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D23_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D23_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D24_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D24_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D24_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D25_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D25_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D25_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D26_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D26_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D26_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D27_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D27_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D27_U_WS2812B3-3
+Added Pin To Net: NetName=WS_GND Pin=D28_U_WS2812B1-3
+Added Pin To Net: NetName=WS_GND Pin=D28_U_WS2812B2-3
+Added Pin To Net: NetName=WS_GND Pin=D28_U_WS2812B3-3
+Added Net: Name=WS_GND
+Added Pin To Net: NetName=WS_VDD Pin=C1_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C1_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C1_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C2_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C2_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C2_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C3_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C3_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C3_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C4_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C4_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C4_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C5_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C5_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C5_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C6_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C6_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C6_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C7_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C7_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C7_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C8_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C8_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C8_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C9_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C9_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C9_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C10_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C10_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C10_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C11_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C11_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C11_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C12_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C12_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C12_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C13_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C13_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C13_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C14_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C14_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C14_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C15_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C15_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C15_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C16_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C16_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C16_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C17_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C17_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C17_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C18_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C18_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C18_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C19_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C19_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C19_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C20_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C20_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C20_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C21_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C21_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C21_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C22_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C22_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C22_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C23_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C23_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C23_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C24_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C24_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C24_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C25_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C25_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C25_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C26_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C26_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C26_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C27_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C27_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C27_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=C28_U_WS2812B1-2
+Added Pin To Net: NetName=WS_VDD Pin=C28_U_WS2812B2-2
+Added Pin To Net: NetName=WS_VDD Pin=C28_U_WS2812B3-2
+Added Pin To Net: NetName=WS_VDD Pin=D1_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D1_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D1_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D2_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D2_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D2_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D3_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D3_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D3_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D4_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D4_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D4_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D5_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D5_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D5_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D6_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D6_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D6_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D7_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D7_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D7_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D8_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D8_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D8_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D9_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D9_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D9_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D10_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D10_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D10_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D11_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D11_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D11_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D12_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D12_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D12_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D13_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D13_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D13_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D14_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D14_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D14_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D15_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D15_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D15_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D16_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D16_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D16_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D17_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D17_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D17_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D18_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D18_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D18_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D19_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D19_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D19_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D20_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D20_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D20_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D21_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D21_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D21_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D22_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D22_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D22_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D23_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D23_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D23_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D24_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D24_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D24_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D25_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D25_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D25_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D26_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D26_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D26_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D27_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D27_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D27_U_WS2812B3-1
+Added Pin To Net: NetName=WS_VDD Pin=D28_U_WS2812B1-1
+Added Pin To Net: NetName=WS_VDD Pin=D28_U_WS2812B2-1
+Added Pin To Net: NetName=WS_VDD Pin=D28_U_WS2812B3-1
+Added Net: Name=WS_VDD
+Added Class: Name=U_Display
+Added Class: Name=U_WS2812B1
+Added Class: Name=U_WS2812B2
+Added Class: Name=U_WS2812B3
+Added Class: Name=WS2812B
+Added Room: Name=U_Display
+Added Room: Name=U_WS2812B1
+Added Room: Name=U_WS2812B2
+Added Room: Name=U_WS2812B3
