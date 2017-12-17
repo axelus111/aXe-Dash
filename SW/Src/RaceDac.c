@@ -19,7 +19,7 @@ void RD_CyclicTask(void const * argument)
 	
 	for (;;)
 	{
-		vTaskDelay(10);
+		vTaskSuspend(NULL);
 		rc_TimeStamp = xTaskGetTickCount();
 		if (pdTRUE == xSemaphoreTake(RD_SentenceMutex, 100)) {
 			RD_Last_RC1_Sentence.timeStamp = rc_TimeStamp;

@@ -1,8 +1,8 @@
 #include "PowerManager.h"
 #include "usart.h"
 
-char WelcomeMessage[] = "aXe-Dashboard: Telemetry starting up.  \r\n";
-char ExitMessage[] =	"aXe-Dashboard: Telemetry shutting down.\r\n";
+const char WelcomeMessage[] = "aXe-Dashboard: Telemetry starting up.  \r\n";
+const char ExitMessage[] =	"aXe-Dashboard: Telemetry shutting down.\r\n";
 
 void PM_Init(void)
 {	

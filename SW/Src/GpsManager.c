@@ -70,8 +70,8 @@ void GM_CyclicTask(void const * argument)
 							static uint8_t  on = 0;
 							if (tsNow - ts > 1000)
 							{
-								if (on) WS_SetColorF(GM_LED_DATA, 0, 0, 0);
-								else WS_SetColorF(GM_LED_DATA, 0, 1, 0);
+								if (on) WS_SetColorF(1, 0, 0, 0);
+								else WS_SetColorF(1, 0, 1, 0);
 								on = !on;
 								ts = tsNow;
 							}
